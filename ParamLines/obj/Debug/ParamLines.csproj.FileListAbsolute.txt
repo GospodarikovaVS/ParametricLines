@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\bin\Debug\ParamLines.exe.config
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\bin\Debug\ParamLines.exe
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\bin\Debug\ParamLines.pdb
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\bin\Debug\MyLibrary.dll
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\bin\Debug\MyLibrary.pdb
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.csprojAssemblyReference.cache
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.CanvasForm.resources
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.Properties.Resources.resources
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.ToolForm.resources
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.csproj.GenerateResource.cache
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.csproj.CopyComplete
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.exe
+C:\Users\User\Desktop\РП\Проги\Параметрические кривые\ParamLines\obj\Debug\ParamLines.pdb
